@@ -1,0 +1,15 @@
+{
+  "name": "order-admin",
+  "version": "1.0.0",
+  "description": "毕业设计-高并发电商订货系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "order",
+    "admin"
+  ],
+  "author": "zengchuan",
+  "license": "ISC"
+}
