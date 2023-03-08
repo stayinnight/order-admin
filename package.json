@@ -11,5 +11,8 @@
     "admin"
   ],
   "author": "zengchuan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.0"
+  }
 }
